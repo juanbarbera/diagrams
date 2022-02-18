@@ -1,1 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2022-02-15T15:38:47.369Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" version="16.5.3" etag="9asvgV0ARIidJmVY7kOE" type="github"><diagram id="Mp5IYmiqdGt_C0A2nhaZ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-02-18T21:18:51.380Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="Vxcouzt2R7uBRzYXN1sH" version="16.5.3" type="github">
+  <diagram id="Mp5IYmiqdGt_C0A2nhaZ" name="Page-1">
+    <mxGraphModel dx="2516" dy="1869" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0NE1rVHN76mkDAG1QykA-1" value="pre-home page" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="350" width="710" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="0NE1rVHN76mkDAG1QykA-2" value="pre-home page:&lt;br&gt;with funny animation, welcome&lt;br&gt;&#39;enter&#39; button" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0NE1rVHN76mkDAG1QykA-3" value="Portfolio.&lt;br&gt;sandbox link to each project" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0NE1rVHN76mkDAG1QykA-4" value="Stack" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="225" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0NE1rVHN76mkDAG1QykA-5" value="About&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22pre-home%20page%26lt%3Bbr%26gt%3Bwith%20funny%20animation%26lt%3Bbr%26gt%3B&#39;enter&#39;%20button%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%2260%22%20y%3D%2240%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0NE1rVHN76mkDAG1QykA-6" value="contact" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="505" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0NE1rVHN76mkDAG1QykA-9" value="slides up&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22pre-home%20page%26lt%3Bbr%26gt%3Bwith%20funny%20animation%26lt%3Bbr%26gt%3B&#39;enter&#39;%20button%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%2280%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="40" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0NE1rVHN76mkDAG1QykA-11" value="I&#39;m looking for my first job as a developer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="245" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0NE1rVHN76mkDAG1QykA-12" value="hire me?&lt;br&gt;what about now? hire me?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="40" width="105" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0NE1rVHN76mkDAG1QykA-13" value="game:&lt;br&gt;space ship evading from difficulties of finding first job" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0NE1rVHN76mkDAG1QykA-14" value="no previous experience,&lt;br&gt;no CS degree,&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0NE1rVHN76mkDAG1QykA-15" value="visual concept:&lt;br&gt;black background, colorful icons button (neon collors), smooth animations (hover, transitions, etc), big elements and font, cool font." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="-70" width="235" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="0NE1rVHN76mkDAG1QykA-16" value="style features:&lt;br&gt;-parallax&lt;br&gt;-section observer&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
