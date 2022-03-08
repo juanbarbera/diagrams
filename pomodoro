@@ -1,1 +1,103 @@
-<mxfile host="app.diagrams.net" modified="2022-03-08T13:44:35.559Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" version="16.6.6" etag="cRNPpJe-jnYcKxzfOplj" type="github"><diagram id="A19MZeU8GldTZcu8U7ni">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-08T17:36:25.222Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="83cPQxJ3hRno6egKqhbz" version="16.6.6" type="github">
+  <diagram id="A19MZeU8GldTZcu8U7ni" name="Page-1">
+    <mxGraphModel dx="2036" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="B4qJPl5JXtgnlfKOweam-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="90" width="690" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="B4qJPl5JXtgnlfKOweam-3" value="Timer" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="400" y="180" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="B4qJPl5JXtgnlfKOweam-4" value="pause/resume" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B4qJPl5JXtgnlfKOweam-5" value="Stop" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B4qJPl5JXtgnlfKOweam-6" value="pomodoro, short break, long break" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="427.5" y="460" width="115" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B4qJPl5JXtgnlfKOweam-8" value="POMODORO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="421.25" y="120" width="127.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="B4qJPl5JXtgnlfKOweam-9" value="Dark Theme" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="105" width="110" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="B4qJPl5JXtgnlfKOweam-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="90" width="150" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="B4qJPl5JXtgnlfKOweam-11" value="Task List" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="135" y="120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B4qJPl5JXtgnlfKOweam-13" value="Item 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="105" y="160" width="115" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B4qJPl5JXtgnlfKOweam-14" value="Item 2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="107.5" y="200" width="115" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B4qJPl5JXtgnlfKOweam-15" value="Item 3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="107.5" y="240" width="115" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B4qJPl5JXtgnlfKOweam-17" value="Next: MERN E-commerce" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="320" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="B4qJPl5JXtgnlfKOweam-19" value="Settings" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="160" width="110" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="B4qJPl5JXtgnlfKOweam-20" value="Next: testing in React" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="270" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="B4qJPl5JXtgnlfKOweam-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="580" width="690" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="B4qJPl5JXtgnlfKOweam-22" value="40 min" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="225" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B4qJPl5JXtgnlfKOweam-23" value="Pomodori" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="255" y="670" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B4qJPl5JXtgnlfKOweam-24" value="10 min" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="375" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B4qJPl5JXtgnlfKOweam-25" value="Short Break" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="405" y="670" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B4qJPl5JXtgnlfKOweam-26" value="30 min" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="525" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B4qJPl5JXtgnlfKOweam-27" value="Long Break" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="555" y="670" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B4qJPl5JXtgnlfKOweam-28" value="Add Task" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="970" width="75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="B4qJPl5JXtgnlfKOweam-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="272.5" y="800" width="325" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="B4qJPl5JXtgnlfKOweam-31" value="Task 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="272.5" y="800" width="325" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B4qJPl5JXtgnlfKOweam-32" value="Task 2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="272.5" y="830" width="325" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B4qJPl5JXtgnlfKOweam-33" value="Task 3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="272.5" y="860" width="325" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B4qJPl5JXtgnlfKOweam-34" value="task" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="940" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B4qJPl5JXtgnlfKOweam-35" value="select Theme" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="375" y="600" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="B4qJPl5JXtgnlfKOweam-36" value="React testing" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="380" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="B4qJPl5JXtgnlfKOweam-37" value="custom hooks" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="430" width="240" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
