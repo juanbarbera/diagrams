@@ -1,65 +1,98 @@
-<mxfile host="app.diagrams.net" modified="2022-07-12T14:04:14.198Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="5gtuwT1J3bzqbjNsErb9" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-14T11:50:39.266Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="cbQ2NPucSCW6vAMVHGx3" version="20.0.4" type="github">
   <diagram id="xXiOh94Zjy2rgz48Bsy7" name="Page-1">
-    <mxGraphModel dx="1666" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1075" dy="496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="8ATC9B71WDK5AEgH5nmT-1" value="Ayrton Senna, Michael Schumacher, Niki Lauda, Juan Manuel Fangio, Lewis Hamilton, Jim Clark" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8ATC9B71WDK5AEgH5nmT-1" value="Ayrton Senna, Michael Schumacher, Niki Lauda, Juan Manuel Fangio, Lewis Hamilton, Jim Clark" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="15" y="90" width="410" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8ATC9B71WDK5AEgH5nmT-2" value="Spa Francorchamps, Nurburgring Nordschleife, Interlagos, Monza, Silverstone" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8ATC9B71WDK5AEgH5nmT-2" value="Spa Francorchamps, Nurburgring Nordschleife, Interlagos, Monza, Silverstone" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="430" y="90" width="410" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8ATC9B71WDK5AEgH5nmT-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8ATC9B71WDK5AEgH5nmT-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="220" width="600" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="8ATC9B71WDK5AEgH5nmT-4" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;Formula 1 Tribute&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="8ATC9B71WDK5AEgH5nmT-4" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;Formula 1 Tribute&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="305" y="280" width="210" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="8ATC9B71WDK5AEgH5nmT-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="630" width="600" height="360" as="geometry" />
+        <mxCell id="8ATC9B71WDK5AEgH5nmT-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="115" y="2800" width="600" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="8ATC9B71WDK5AEgH5nmT-7" value="piloto" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="650" y="610" width="120" height="60" as="geometry" />
+        <mxCell id="8ATC9B71WDK5AEgH5nmT-7" value="piloto" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="655" y="2780" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8ATC9B71WDK5AEgH5nmT-8" value="Cor Temática" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="10" y="910" width="120" height="80" as="geometry" />
+        <mxCell id="8ATC9B71WDK5AEgH5nmT-8" value="Cor Temática" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="15" y="3080" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="8ATC9B71WDK5AEgH5nmT-9" value="foto do Michael Schumacher" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="230" y="760" width="360" height="210" as="geometry" />
+        <mxCell id="8ATC9B71WDK5AEgH5nmT-9" value="foto do Michael Schumacher" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="235" y="2930" width="360" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="8ATC9B71WDK5AEgH5nmT-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="990" width="600" height="360" as="geometry" />
+        <mxCell id="8ATC9B71WDK5AEgH5nmT-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="115" y="3160" width="600" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="8ATC9B71WDK5AEgH5nmT-11" value="Michael Schumacher" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="350" y="700" width="120" height="40" as="geometry" />
+        <mxCell id="8ATC9B71WDK5AEgH5nmT-11" value="Michael Schumacher" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="355" y="2870" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8ATC9B71WDK5AEgH5nmT-12" value="descrição do piloto" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="235" y="1010" width="350" height="190" as="geometry" />
+        <mxCell id="8ATC9B71WDK5AEgH5nmT-12" value="descrição do piloto" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="240" y="3180" width="350" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="8ATC9B71WDK5AEgH5nmT-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="1350" width="600" height="360" as="geometry" />
+        <mxCell id="8ATC9B71WDK5AEgH5nmT-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="115" y="3520" width="600" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="8ATC9B71WDK5AEgH5nmT-14" value="stats do piloto" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="235" y="1230" width="350" height="190" as="geometry" />
+        <mxCell id="8ATC9B71WDK5AEgH5nmT-14" value="stats do piloto" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="240" y="3400" width="350" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="8ATC9B71WDK5AEgH5nmT-15" value="HOME" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="140" y="650" width="90" height="40" as="geometry" />
+        <mxCell id="8ATC9B71WDK5AEgH5nmT-15" value="HOME" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="145" y="2820" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8ATC9B71WDK5AEgH5nmT-16" value="Pilotos" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="8ATC9B71WDK5AEgH5nmT-16" value="Pilotos" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="210" y="410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8ATC9B71WDK5AEgH5nmT-17" value="Circuitos" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="8ATC9B71WDK5AEgH5nmT-17" value="Circuitos" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="350" y="410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8ATC9B71WDK5AEgH5nmT-18" value="Rivalidades" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="8ATC9B71WDK5AEgH5nmT-18" value="Rivalidades" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="490" y="410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8ATC9B71WDK5AEgH5nmT-19" value="Som da Ferrari F2004" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="8ATC9B71WDK5AEgH5nmT-19" value="Som da Ferrari F2004" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="640" y="240" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="8ATC9B71WDK5AEgH5nmT-20" value="buttons appear from left to right.&lt;br&gt;when the component loads, each category div appears at different times." style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="8ATC9B71WDK5AEgH5nmT-20" value="buttons appear from left to right.&lt;br&gt;when the component loads, each category div appears at different times." style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="280" y="490" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DU7cdG3gOJDkV83XqPix-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="950" width="600" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="DU7cdG3gOJDkV83XqPix-2" value="pilotos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="115" y="910" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DU7cdG3gOJDkV83XqPix-3" value="1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="215" y="1010" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DU7cdG3gOJDkV83XqPix-4" value="2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1110" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DU7cdG3gOJDkV83XqPix-5" value="3" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="1110" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DU7cdG3gOJDkV83XqPix-6" value="4" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="455" y="1200" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DU7cdG3gOJDkV83XqPix-7" value="5" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1200" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DU7cdG3gOJDkV83XqPix-8" value="6" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="980" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DU7cdG3gOJDkV83XqPix-9" value="7" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1010" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DU7cdG3gOJDkV83XqPix-13" value="Name of pilots plus flag rotating in circle. On hover, name font increases and&amp;nbsp; &amp;nbsp;circle stops and appears image and name in the center of the circle.&amp;nbsp; Click on a name, the circle stops and appears a button to &quot;admire&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="235" y="1330" width="445" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DU7cdG3gOJDkV83XqPix-14" value="How to make each button move in circle around center" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1450" width="440" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
