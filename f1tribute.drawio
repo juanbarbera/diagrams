@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2022-07-14T11:50:39.266Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="cbQ2NPucSCW6vAMVHGx3" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-14T16:53:00.045Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="1eP4-X2cu-7ttAGBZpDd" version="20.0.4" type="github">
   <diagram id="xXiOh94Zjy2rgz48Bsy7" name="Page-1">
-    <mxGraphModel dx="1075" dy="496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="765" dy="380" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="8ATC9B71WDK5AEgH5nmT-1" value="Ayrton Senna, Michael Schumacher, Niki Lauda, Juan Manuel Fangio, Lewis Hamilton, Jim Clark" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="8ATC9B71WDK5AEgH5nmT-1" value="Ayrton Senna, Michael Schumacher, Niki Lauda, Juan Manuel Fangio, Jim Clark, LH" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="15" y="90" width="410" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8ATC9B71WDK5AEgH5nmT-2" value="Spa Francorchamps, Nurburgring Nordschleife, Interlagos, Monza, Silverstone" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -68,31 +68,37 @@
           <mxGeometry x="115" y="910" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DU7cdG3gOJDkV83XqPix-3" value="1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="215" y="1010" width="90" height="40" as="geometry" />
+          <mxGeometry x="420" y="1050" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DU7cdG3gOJDkV83XqPix-4" value="2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="1110" width="90" height="40" as="geometry" />
+          <mxGeometry x="390" y="1120" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DU7cdG3gOJDkV83XqPix-5" value="3" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="1110" width="90" height="40" as="geometry" />
+          <mxGeometry x="625" y="1120" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DU7cdG3gOJDkV83XqPix-6" value="4" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="455" y="1200" width="90" height="40" as="geometry" />
+          <mxGeometry x="570" y="1180" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DU7cdG3gOJDkV83XqPix-7" value="5" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="1200" width="90" height="40" as="geometry" />
+          <mxGeometry x="450" y="1190" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DU7cdG3gOJDkV83XqPix-8" value="6" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="365" y="980" width="90" height="40" as="geometry" />
+          <mxGeometry x="520" y="1000" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DU7cdG3gOJDkV83XqPix-9" value="7" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="1010" width="90" height="40" as="geometry" />
+          <mxGeometry x="595" y="1050" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DU7cdG3gOJDkV83XqPix-13" value="Name of pilots plus flag rotating in circle. On hover, name font increases and&amp;nbsp; &amp;nbsp;circle stops and appears image and name in the center of the circle.&amp;nbsp; Click on a name, the circle stops and appears a button to &quot;admire&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="235" y="1330" width="445" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DU7cdG3gOJDkV83XqPix-14" value="How to make each button move in circle around center" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="1450" width="440" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DU7cdG3gOJDkV83XqPix-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="175" y="1010" width="100" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="DU7cdG3gOJDkV83XqPix-17" value="Admire button" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="185" y="1185" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
