@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2022-07-23T13:06:06.988Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.1.4" etag="HGRL4HEoFtPgS1Uuf8rw" type="github"><diagram id="xAoNtUL37x84Tsm-x4Nt">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-23T13:10:56.380Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="a9UnVdQsBvAINlItU1Gx" version="20.1.4" type="github">
+  <diagram id="xAoNtUL37x84Tsm-x4Nt" name="Page-1">
+    <mxGraphModel dx="1666" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="to3e_S76bD3wWWfLLn1Q-2" value="About Me" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="10" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="to3e_S76bD3wWWfLLn1Q-3" value="Tells a story" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="to3e_S76bD3wWWfLLn1Q-4" value="Welcome to my website&lt;br&gt;(text appears as I am typing it)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="140" width="270" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="to3e_S76bD3wWWfLLn1Q-6" value="next button" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="270" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="to3e_S76bD3wWWfLLn1Q-7" value="Black background" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
