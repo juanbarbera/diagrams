@@ -1,23 +1,53 @@
-<mxfile host="app.diagrams.net" modified="2022-07-23T13:11:11.015Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="F3rMqeJh3QfIPYsS9qs0" version="20.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-23T16:28:39.505Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="hV_aizxXi-BD3ZsFQrSs" version="20.1.4" type="github">
   <diagram id="xAoNtUL37x84Tsm-x4Nt" name="Page-1">
-    <mxGraphModel dx="1666" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1666" dy="1869" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="to3e_S76bD3wWWfLLn1Q-2" value="About Me" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="70" y="10" width="60" height="30" as="geometry" />
+          <mxGeometry x="90" y="25" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="to3e_S76bD3wWWfLLn1Q-3" value="Tells a story" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="10" width="120" height="60" as="geometry" />
+          <mxGeometry x="170" y="10" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="to3e_S76bD3wWWfLLn1Q-4" value="Welcome to my website&lt;br&gt;(text appears as I am typing it)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="to3e_S76bD3wWWfLLn1Q-4" value="Welcome&lt;br&gt;(text appears as I am typing it)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="140" width="270" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="to3e_S76bD3wWWfLLn1Q-6" value="next button" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="270" width="70" height="20" as="geometry" />
+        <mxCell id="to3e_S76bD3wWWfLLn1Q-6" value="press any key to continue" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="260" width="200" height="20" as="geometry" />
         </mxCell>
         <mxCell id="to3e_S76bD3wWWfLLn1Q-7" value="Black background" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="110" width="120" height="60" as="geometry" />
+          <mxGeometry x="310" y="130" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="to3e_S76bD3wWWfLLn1Q-9" value="My name is Juan, I&#39;m 25 years old, and I&#39;m a self-taught front-end developer." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="330" width="270" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="to3e_S76bD3wWWfLLn1Q-11" value="Simulating terminal, high contrast,&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="130" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="to3e_S76bD3wWWfLLn1Q-12" value="I love all kinds of technology. Our hability to transform raw materials into useful tools fascinates me more than anything." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="520" width="270" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="to3e_S76bD3wWWfLLn1Q-14" value="My goal is to contribute to the creation of technologies that increase people&#39;s quality of life and decrease inequality. Everybody desevers equal chances." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="710" width="270" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="to3e_S76bD3wWWfLLn1Q-16" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;My Brand and my values&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="-80" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="to3e_S76bD3wWWfLLn1Q-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="900" width="270" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="to3e_S76bD3wWWfLLn1Q-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="1060" width="270" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="to3e_S76bD3wWWfLLn1Q-21" value="Here&#39;s my stack and contact information. Feel free to contact me via email at any time =)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="165" y="950" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="to3e_S76bD3wWWfLLn1Q-22" value="stack and skills (same)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="207.5" y="1020" width="115" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="to3e_S76bD3wWWfLLn1Q-23" value="contact: email, number, linkedin, codewars, github." style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="207.5" y="1120" width="115" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
