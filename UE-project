@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-26T13:34:38.353Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="3uUqXpJDbH1CiYT8uoK5" version="20.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-26T15:19:48.769Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="IDJphVsQQOAfHPddLgWA" version="20.2.0" type="github">
   <diagram id="x33fm6Zr694P3bTLVJVi" name="Page-1">
     <mxGraphModel dx="1666" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -52,8 +52,14 @@
         <mxCell id="DNooMHp4RKlX2au6fizi-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="750" width="130" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="DNooMHp4RKlX2au6fizi-17" value="Box with suggestions" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="380" width="260" height="80" as="geometry" />
+        <mxCell id="DNooMHp4RKlX2au6fizi-18" value="suggestion 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="410" width="95" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DNooMHp4RKlX2au6fizi-19" value="suggestion 2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="410" width="95" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DNooMHp4RKlX2au6fizi-20" value="suggestion 3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="453.75" y="410" width="95" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
